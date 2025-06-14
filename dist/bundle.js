@@ -1,0 +1,2 @@
+(()=>{"use strict";var e=document.getElementById("app");e&&(e.textContent="Webpack + TypeScript + Babel + ESLint + SCSS + LESS works!"),console.log("Hello from TypeScript!")})();
+//# sourceMappingURL=bundle.js.map
